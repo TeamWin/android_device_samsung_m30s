@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "35d8d4f4_368b5769",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 541
+      },
+      "writtenOn": "2021-04-12T05:38:07Z",
+      "side": 1,
+      "message": "\u003e Patch Set 1:\n\u003e \n\u003e Build Successful \n\u003e \n\u003e http://jenkins.twrp.me/job/Build%20Test%20Image/1954/ : Please check https://jenkins.twrp.me/view/test/ for the test image.\n\nworking, thanks",
+      "revId": "808107f50754d3df017b3de7c988cf28a47d9a98",
+      "serverId": "9c1c7d72-6534-4d44-b0ea-39f63e804833"
+    }
+  ]
+}
